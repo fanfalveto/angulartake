@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.micss{background-color: blue !important;}
+nav ul a {
+    transition: background-color .3s;
+    font-size: 1rem;
+    color: black;
+    display: block;
+    padding: 0 15px;
+    cursor: pointer;
+    font-size: 1.2em !important;
+}
+	.contenedor{width: 90%;margin-left: 5%;margin-top: 10%;
+		margin-bottom: 5%;background-color: #bbdefb}
+.tarjeta{width: 20%}
+	.imagen{width: 90% !important;
+	margin:auto;margin-top: 5%}
+		.tit{width: 90% !important;
+	margin:auto !important;margin-top: 2% !important;
+	text-align:center !important;}
+	.row{margin-top: -50px !important}
+	.iconox{ margin-right: -15px !important;z-index:0 !important}
